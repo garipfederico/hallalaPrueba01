@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: B663-1B5A
+
+ Directorio de C:\Users\Sawka\Documents\GitHub\hallalaPrueba01
+
+10/07/2020  21:03    <DIR>          .
+10/07/2020  21:03    <DIR>          ..
+10/07/2020  21:02                14 Leo.txt
+10/07/2020  21:03                 0 listado.txt
+10/07/2020  20:55                21 README.md
+               3 archivos             35 bytes
+               2 dirs  76.213.891.072 bytes libres
