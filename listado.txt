@@ -1,5 +1,7 @@
  El volumen de la unidad C no tiene etiqueta.
- Comentario para cagarla
+HEAD
+ Comentario para cagarla pero que se arreglo
+ 097fde0651bc5baff6c93c4aa079aea54819bf0b
  El n£mero de serie del volumen es: B663-1B5A
 
  Directorio de C:\Users\Sawka\Documents\GitHub\hallalaPrueba01
