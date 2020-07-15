@@ -1,0 +1,15 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 76EC-E050
+
+ Directorio de C:\Users\Emilio\hallalaPruebas\prueba02\hallalaPrueba01
+
+15/07/2020  18:26    <DIR>          .
+15/07/2020  18:26    <DIR>          ..
+13/07/2020  18:43                24 Federico01.txt
+15/07/2020  18:28    <DIR>          julio15
+13/07/2020  18:41                14 Leo.txt
+15/07/2020  18:25               578 listado.txt
+13/07/2020  18:41                30 prueba2.txt
+10/07/2020  20:31                21 README.md
+               5 archivos            667 bytes
+               3 dirs   5.778.636.800 bytes libres
