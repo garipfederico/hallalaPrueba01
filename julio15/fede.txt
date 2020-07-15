@@ -1,4 +1,5 @@
  El volumen de la unidad C no tiene etiqueta.
+ *generando un conflicto*
  El n£mero de serie del volumen es: 76EC-E050
 
  Directorio de C:\Users\Emilio\hallalaPruebas\prueba02\hallalaPrueba01
